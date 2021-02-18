@@ -1,3 +1,5 @@
+//array of javascript ojbects
+
 const contacts = [
   {
     name: "Beyonce",
@@ -21,3 +23,6 @@ const contacts = [
     email: "gmail@chucknorris.com"
   }
 ];
+
+//export the contacts array
+export default contacts;
